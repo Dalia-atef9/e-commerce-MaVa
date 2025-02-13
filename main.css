@@ -39,3 +39,15 @@ p {
     font-size: 1.1em;
     line-height: 1.6;
 }
+
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+.card .btn-primary:hover {
+    background-color: #ff5733;
+    border-color: #ff5733;
+}
