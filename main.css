@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #555;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #000;
+}
+
+.custom-font {
+    font-family: 'Grechen Fuemen', cursive;
+    font-size: 1.5em;
+    letter-spacing:-3px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h2 {
+    font-family: 'Grechen Fuemen', cursive;
+    margin-bottom: 20px;
+    color:rgb(212, 127, 187);
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
